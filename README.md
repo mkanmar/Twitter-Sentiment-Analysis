@@ -95,6 +95,6 @@ This project was built using a variety of **data science and machine learning to
 
 ## 🎖️ Acknowledgments
 
-This project was organized by the Davis Data Science Club. Special thanks to the club for organizing and supporting this initiative.
+This project was organized by the [**Davis Data Science Club**](https://github.com/Davis-Data-Science-Club) in Winter 2023. Special thanks to the club for organizing and supporting this initiative.
 
 ---
