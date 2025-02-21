@@ -6,6 +6,10 @@ Using **Python** and powerful data science libraries like **NLTK, scikit-learn, 
 
 ---
 
+## 📥 Dataset
+
+The dataset used for this project was sourced from [Kaggle](https://www.kaggle.com/datasets/yasserh/twitter-tweets-sentiment-dataset). It contains a collection of tweets labeled with sentiment categories: **positive, negative, and neutral**. This dataset was chosen for its diverse range of real-world tweets, making it a valuable resource for training and evaluating sentiment analysis models.
+
 ## 🚀 Key Features
 
 Understanding the overall sentiment of tweets is crucial for businesses, policymakers, and social researchers. By cleaning and processing raw tweet data, this project builds a sentiment classification model that effectively distinguishes between **positive, neutral, and negative tweets**. 
